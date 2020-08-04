@@ -10,4 +10,10 @@
 * goal 是目标的意思，在GA中可以设置goal，他可以是destination目标url，或者是event，event发生一次，就+1
 * funnel是漏斗的意思，因此，如果在goal里面设置的是destination，那么就可以看，100个人里面，有多少个人来到了最终的页面，又有多少人，在中途退出
 * source是请求的来源，比如是Google，twitter，medium是媒介， referral是转介
+   * (none）：通过书签来的直接流量或者通过地址栏直接过来的，或者未标记来源的数据
+   * Referral：从其他 domian 点过来的未标记的数据
+   * Organic：通过自然引擎来的自然流量（非付费流量
 * dimensions 要素
+
+
+（）
